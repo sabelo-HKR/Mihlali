@@ -4,7 +4,7 @@ body {
    padding: 20px;
    background: 0E41B0;
    color: black;
-   text-align: left;
+   text-align: center;
    font-family: 'Poppins', sans-serif;
 }
 
@@ -13,11 +13,11 @@ body {
    border-radius: 50%;
 }
 .forex-img{
-   width: 35%;
+   width: 30%;
    border: 20%;
 }
 .FX1-img{
-   width: 40%;
+   width: 15%;
    border: 25%;
 }
 
